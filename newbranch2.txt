@@ -1,0 +1,1 @@
+creating a new branch using git bash terminal and merging it to main branch by using pull request
